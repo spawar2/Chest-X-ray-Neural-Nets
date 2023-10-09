@@ -6,6 +6,8 @@ Culinda Technologies (2020), Texas, USA (https://www.culinda.io/): Machine learn
 
 # ChestAI [APP](http://20.169.253.49:5001/login)
 
+Product: https://aws.amazon.com/marketplace/seller-profile?id=seller-b6otd3wry7lkk
+
 ## Currently working on training diverse classifiers to create a strong ensemble
 
 ## Single Model avg AUC score for SOTA paper 0.894
