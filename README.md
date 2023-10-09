@@ -3,6 +3,8 @@ Yale University, Rothberg Fund (2020), USA (https://medium.com/tsai-city/kicksta
 Entrepreneurship Foundation Fund (2020), USA (https://www.entrepreneurshipfoundation.org/): “CHEST-AI: AI tool for detection of lung diseases from chest X- ray data”, Github https://www.chestai.org/ , Role: Investigator. [*2023:1, 4, 9; 2021: 17, 23] [**21, 23, 29, 30]
 
 Culinda Technologies (2020), Texas, USA (https://www.culinda.io/): Machine learning solutions for medical devices that provide deep insight into IoT and IoMT applications, Angel investment, Github Role: Investigator. [*2023:1, 4, 9; 2021: 17, 23] [**21, 23, 29, 30]
+<img width="1433" alt="ChestAi" src="https://github.com/spawar2/Chest-X-ray-Neural-Nets/assets/25118302/eec7c627-7c54-4677-b7b1-db210ec7fa16">
+
 
 # ChestAI [APP](http://20.169.253.49:5001/login)
 
