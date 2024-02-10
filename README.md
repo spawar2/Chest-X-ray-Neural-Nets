@@ -66,7 +66,15 @@ score(FE): 0.878
 
 https://github.com/rushikeshchopaderc
 https://in.linkedin.com/in/rushikesh-chopade-88470615b
-This project in collaboration with Rushikesh Chopade Undergraduate student: Indian Institute of Technology (IIT), Kharagpur, India. Project: CHEST-AI: AI tool for detection of lung diseases from chest X- ray data (Spring 2021). Paper Paper Paper Paper Paper 
+This project in collaboration with Rushikesh Chopade Undergraduate student: Indian Institute of Technology (IIT), Kharagpur, India. Project: CHEST-AI: AI tool for detection of lung diseases from chest X- ray data (Spring 2021). 
+https://link.springer.com/chapter/10.1007/978-981-19-9819-5_49
+https://link.springer.com/chapter/10.1007/978-981-19-7660-5_7
+https://www.researchsquare.com/article/rs-1129014/latest.pdf
+https://www.biorxiv.org/content/10.1101/2021.09.21.461307v1.abstract
+https://dl.acm.org/doi/abs/10.1145/3469213.3469214
+http://20.169.253.49:5001/login
+https://aws.amazon.com/marketplace/seller-profile?id=seller-b6otd3wry7lkk
+https://bpb-us-w2.wpmucdn.com/campuspress.yale.edu/dist/7/3679/files/2023/10/ChestAi-300x167.png
 
 ## Regularization (doesn't help in our case)
 DenseNet121, U-Mixed, One Cycle Policy, Transforms
