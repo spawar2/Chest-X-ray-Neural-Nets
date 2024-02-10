@@ -67,6 +67,7 @@ score(FE): 0.878
 https://github.com/rushikeshchopaderc
 https://in.linkedin.com/in/rushikesh-chopade-88470615b
 https://github.com/SurajK7/
+https://in.linkedin.com/in/surajkumar1004
 This project in collaboration with Rushikesh Chopade, Suraj Kumar Undergraduate student: Indian Institute of Technology (IIT), Kharagpur, India. Project: CHEST-AI: AI tool for detection of lung diseases from chest X- ray data (Spring 2021). Paper Paper Paper Paper Paper 
 https://link.springer.com/chapter/10.1007/978-981-19-9819-5_49
 https://link.springer.com/chapter/10.1007/978-981-19-7660-5_7
