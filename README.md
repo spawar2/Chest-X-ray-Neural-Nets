@@ -83,3 +83,6 @@ DenseNet121, U-Mixed, One Cycle Policy, Transforms
 
 score: NA
 
+<img width="218" alt="CLR" src="https://github.com/spawar2/Chest-X-ray-Neural-Nets/assets/25118302/b5437360-9591-457c-beed-4d60519fba9e">
+
+
