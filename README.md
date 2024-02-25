@@ -85,6 +85,27 @@ score: NA
 
 <img width="218" alt="CLR" src="https://github.com/spawar2/Chest-X-ray-Neural-Nets/assets/25118302/b5437360-9591-457c-beed-4d60519fba9e">
 
+https://campuspress.yale.edu/shrikantpawar/files/2024/02/ICICT-2024-65f2cb2ed915354a.pdf
+https://scepscor.org/adapt-in-sc-thrust-2/
+https://www.sc-bdhs-conference.org/agenda2024/
+https://campuspress.yale.edu/shrikantpawar/files/2024/01/USC-BigData-2024-2b5a6615672cd9bd.pptx
+https://link.springer.com/chapter/10.1007/978-3-031-34960-7_23
+https://campuspress.yale.edu/shrikantpawar/files/2024/01/USC-BigData-Poster-ea9b620665de21e0-rotated-e1706728883865-225x300.jpg
+ https://iwbbio.ugr.es/
+https://www.claflin-computation.com/_files/ugd/81dd80_82ed579c7718410ab538e1fecbd85714.pdf
+https://youtu.be/988lbQ4ekao
+https://www.claflin-computation.com/lab-journey?pgid=ktmii98q-5ec312bd-56e6-4010-98de-91e7af6dcc55
+https://link.springer.com/chapter/10.1007/978-3-031-34960-7_23
+http://20.169.253.49:5001/login
+https://github.com/spawar2/Chest-X-ray-Neural-Nets
+https://ventures.yale.edu/yaleinnovationsummit
+1	9th International Congress on Information and Communication Technology (ICICT 2024) London, United Kingdom, Addressing Class Imbalance Problem in Semantic Segmentation using Binary Focal Loss, Rushikesh Chopade, Aditya Stanam, & Shrikant Pawar. https://sched.co/1a1eC (NSF RII Track-1 award funded project)
+1	5th National Big Data Health Science Conference (2024), University of South Carolina, Columbia, Cyclical Learning Rates (CLR’S) for Improving Training Accuracies and Lowering Computational Cost, Rushikesh Chopade, Aditya Stanam, Anand Narayanan & Shrikant Pawar Poster Paper Poster (NSF RII Track-1 award funded project) GitHub 
+1	10th International Work-Conference on Bioinformatics and Biomedical Engineering, Gran Canaria, Spain, 2023. Cyclical Learning Rates (CLR’s) for Improving Training Accuracies and Lowering Computational Cost. Poster Presentation CertificateApp.        Paper Product (NSF RII Track-1 award funded project) GitHub 
+Yale Innovation Summit 2022, Eposter: Application of neural networks for aiding lung diagnosis of lung disorders, by Pawar S.D, R. Chopade and A. Stanam, https://ventures.yale.edu/yaleinnovationsummit Product
+![image](https://github.com/spawar2/Chest-X-ray-Neural-Nets/assets/25118302/79ca835e-15ae-4f45-a89e-f6880416ed60)
+
+
 (NSF RII Track-1 award funded project): https://scepscor.org/adapt-in-sc-thrust-2/
 
 
