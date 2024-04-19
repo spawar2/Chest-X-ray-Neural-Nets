@@ -115,6 +115,7 @@ https://sc.edu/about/offices_and_divisions/research/news_and_pubs/news/2024/2024
 (NSF RII Track-1 award funded project): https://scepscor.org/adapt-in-sc-thrust-2/
 
 https://scepscor.org/research-expertise-profiles-table/ https://scepscor.org/pawar-shrikant-research-focus/ https://www.crunchbase.com/organization/chestai https://www.f6s.com/company/chestai 
+ORCID iD: https://orcid.org/0000-0002-6157-2462
 https://aws.amazon.com/marketplace/seller-profile?id=seller-b6otd3wry7lkk
 https://github.com/spawar2/Chest-X-ray-Neural-Nets
 https://www.ai4hlth.org/product-profiles/ChestAi
