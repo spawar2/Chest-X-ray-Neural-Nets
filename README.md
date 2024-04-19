@@ -114,4 +114,14 @@ https://scepscor.org/adapt-in-sc-thrust-2/
 https://sc.edu/about/offices_and_divisions/research/news_and_pubs/news/2024/20240109_2024ResearchCoreFair_Announcement.php
 (NSF RII Track-1 award funded project): https://scepscor.org/adapt-in-sc-thrust-2/
 
+https://scepscor.org/research-expertise-profiles-table/ https://scepscor.org/pawar-shrikant-research-focus/ https://www.crunchbase.com/organization/chestai https://www.f6s.com/company/chestai 
+https://aws.amazon.com/marketplace/seller-profile?id=seller-b6otd3wry7lkk
+https://github.com/spawar2/Chest-X-ray-Neural-Nets
+https://www.ai4hlth.org/product-profiles/ChestAi
+https://www.chestai.org/ & https://www.crunchbase.com/person/shrikant-pawar-f817
+https://tracxn.com/d/companies/chestai/__MB57iTXFVTO2fhlmUZpozcbLBTim3zBYEfD1xFox4mI https://theorg.com/org/chestai https://www.startupranking.com/chestai https://www.sideprojectors.com/project/41226/chestai https://startupbuffer.com/compare-atlantica-vs-chestai https://www.saashub.com/chestai-alternatives https://www.saashub.com/georgia-research-consulting-grc-llc-alternatives https://www.f6s.com/profile/5298554 https://www.crunchbase.com/organization/georgia-research-consulting-grc-llc https://www.claflin.edu/academics-research/faculty-research/meet-our-faculty/dr.-pawar-shrikant https://www.claflin-computation.com/ https://campuspress.yale.edu/shrikantpawar/ http://www.linkedin.com/in/shrikant-pawar-ms-ph-d-5bb37a16 https://www.ncbi.nlm.nih.gov/myncbi/18IT7znYQEs1yv/bibliography/public/ https://scholar.google.com/citations?user=SvcIPSsAAAAJ&hl=en&oi=ao https://github.com/spawar2 https://devpost.com/software/chestai 
+https://shrikantpawar5.gumroad.com/l/mcise
+https://chestai.bigcartel.com/
+Teaching-student-advising: https://campuspress.yale.edu/shrikantpawar/teaching-student-advising/ Faculty Profile: https://www.claflin.edu/academics-research/faculty-research/meet-our-faculty/dr.-pawar-shrikant
+
 
