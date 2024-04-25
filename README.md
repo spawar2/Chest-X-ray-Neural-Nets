@@ -102,19 +102,19 @@ https://link.springer.com/chapter/10.1007/978-3-031-34960-7_23
 http://20.169.253.49:5001/login
 https://github.com/spawar2/Chest-X-ray-Neural-Nets
 https://ventures.yale.edu/yaleinnovationsummit
-1	9th International Congress on Information and Communication Technology (ICICT 2024) London, United Kingdom, Addressing Class Imbalance Problem in Semantic Segmentation using Binary Focal Loss, Rushikesh Chopade, Aditya Stanam, & Shrikant Pawar. https://sched.co/1a1eC (NSF RII Track-1 award funded project)
-1	5th National Big Data Health Science Conference (2024), University of South Carolina, Columbia, Cyclical Learning Rates (CLR’S) for Improving Training Accuracies and Lowering Computational Cost, Rushikesh Chopade, Aditya Stanam, Anand Narayanan & Shrikant Pawar Poster Paper Poster (NSF RII Track-1 award funded project) GitHub 
-1	10th International Work-Conference on Bioinformatics and Biomedical Engineering, Gran Canaria, Spain, 2023. Cyclical Learning Rates (CLR’s) for Improving Training Accuracies and Lowering Computational Cost. Poster Presentation CertificateApp.        Paper Product (NSF RII Track-1 award funded project) GitHub 
+1	9th International Congress on Information and Communication Technology (ICICT 2024) London, United Kingdom, Addressing Class Imbalance Problem in Semantic Segmentation using Binary Focal Loss, Rushikesh Chopade, Aditya Stanam, & Shrikant Pawar. https://sched.co/1a1eC (National Science Foundation NSF RII Track-1 award funded project)
+1	5th National Big Data Health Science Conference (2024), University of South Carolina, Columbia, Cyclical Learning Rates (CLR’S) for Improving Training Accuracies and Lowering Computational Cost, Rushikesh Chopade, Aditya Stanam, Anand Narayanan & Shrikant Pawar Poster Paper Poster (National Science Foundation NSF RII Track-1 award funded project) GitHub 
+1	10th International Work-Conference on Bioinformatics and Biomedical Engineering, Gran Canaria, Spain, 2023. Cyclical Learning Rates (CLR’s) for Improving Training Accuracies and Lowering Computational Cost. Poster Presentation CertificateApp.        Paper Product National Science Foundation NSF RII Track-1 award funded project) GitHub 
 Yale Innovation Summit 2022, Eposter: Application of neural networks for aiding lung diagnosis of lung disorders, by Pawar S.D, R. Chopade and A. Stanam, https://ventures.yale.edu/yaleinnovationsummit Product
 ![image](https://github.com/spawar2/Chest-X-ray-Neural-Nets/assets/25118302/79ca835e-15ae-4f45-a89e-f6880416ed60)
 ![USC Research Core Fair 1 2024](https://github.com/spawar2/Chest-X-ray-Neural-Nets/assets/25118302/f23ed29d-a433-4e64-b114-19886eccbd42)
-2024 University of South Carolina 2nd Annual Research Core Fair, Columbia, Cyclical Learning Rates (CLR’S) for Improving Training Accuracies and Lowering Computational Cost, Rushikesh Chopade, Aditya Stanam, Anand Narayanan & Shrikant Pawar Poster Paper Product (NSF RII Track-1 award funded project) GitHub
+2024 University of South Carolina 2nd Annual Research Core Fair, Columbia, Cyclical Learning Rates (CLR’S) for Improving Training Accuracies and Lowering Computational Cost, Rushikesh Chopade, Aditya Stanam, Anand Narayanan & Shrikant Pawar Poster Paper Product (National Science Foundation  RII Track-1 award funded project) GitHub
 https://campuspress.yale.edu/shrikantpawar/files/2024/03/Research-Core-Fair-2024-submitted-abstracts-163910a83f12c05b.pdf
 https://link.springer.com/chapter/10.1007/978-3-031-34960-7_23
 https://github.com/spawar2/Chest-X-ray-Neural-Nets
 https://scepscor.org/adapt-in-sc-thrust-2/
 https://sc.edu/about/offices_and_divisions/research/news_and_pubs/news/2024/20240109_2024ResearchCoreFair_Announcement.php
-(NSF RII Track-1 award funded project): https://scepscor.org/adapt-in-sc-thrust-2/
+(National Science Foundation  RII Track-1 award funded project): https://scepscor.org/adapt-in-sc-thrust-2/
 
 https://scepscor.org/research-expertise-profiles-table/ https://scepscor.org/pawar-shrikant-research-focus/ https://www.crunchbase.com/organization/chestai https://www.f6s.com/company/chestai 
 ORCID iD: https://orcid.org/0000-0002-6157-2462
