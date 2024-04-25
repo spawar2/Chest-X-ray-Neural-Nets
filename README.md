@@ -1,3 +1,5 @@
+[Python: fastai.vision, torchvision.models, pandas, Path]
+
 [Yale University, Rothberg Fund (2020), USA](https://medium.com/tsai-city/kickstarting-healthcare-innovation-with-the-rothberg-catalyzer-prototype-fund-6f5a1f37c5c2): [“CHEST-AI: AI tool for detection of lung diseases from chest X- ray data”,](https://www.chestai.org/) , Role: Investigator. Github Poster Link [*2023:1, 4, 9; 2021: 17, 23][**21, 23, 29, 30]
 
 [Entrepreneurship Foundation Fund (2020), USA](https://www.entrepreneurshipfoundation.org/): “CHEST-AI: AI tool for detection of lung diseases from chest X- ray data”, [Github](https://www.chestai.org/) , Role: Investigator. [*2023:1, 4, 9; 2021: 17, 23] [**21, 23, 29, 30]
