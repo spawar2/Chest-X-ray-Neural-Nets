@@ -9,7 +9,7 @@
 
 https://devpost.com/software/chestai
 
-# ChestAI [APP](http://20.169.253.49:5001/login)
+# ChestAI [APP](http://20.169.253.49:5001/login) collaboration with Dr. Narayanan, Johnson & Johnson https://anandnarayananphd.com/
 
 [Product:](https://aws.amazon.com/marketplace/seller-profile?id=seller-b6otd3wry7lkk)
 
