@@ -4,6 +4,10 @@
 <img width="174" alt="ICICT" src="https://github.com/spawar2/Chest-X-ray-Neural-Nets/assets/25118302/c859b8c7-9415-4bd7-a14d-3dc659215067">
 <img width="844" alt="IWBBIO" src="https://github.com/spawar2/Chest-X-ray-Neural-Nets/assets/25118302/2bbd9bb5-dad5-4d6c-8899-a554ec24e29b">
 <img width="343" alt="Yale" src="https://github.com/spawar2/Chest-X-ray-Neural-Nets/assets/25118302/f6fc5f6b-c020-4724-bf03-b6977775a10a">
+<img width="156" alt="K-fold Semi" src="https://github.com/spawar2/Chest-X-ray-Neural-Nets/assets/25118302/94a6a661-0c69-4ec9-9263-c1d71191b6c2">
+![culinda](https://github.com/spawar2/Chest-X-ray-Neural-Nets/assets/25118302/496673ee-be1d-4d54-8d00-6d75d64ec35a)
+<img width="400" alt="Enterprenurship" src="https://github.com/spawar2/Chest-X-ray-Neural-Nets/assets/25118302/fbb8d054-f56a-4e2c-893f-e300849dd260">
+![Tsai](https://github.com/spawar2/Chest-X-ray-Neural-Nets/assets/25118302/e67340eb-635f-4a62-94f6-2b7a2903f7d5)
 
 
 [Yale University, Rothberg Fund (2020), USA](https://medium.com/tsai-city/kickstarting-healthcare-innovation-with-the-rothberg-catalyzer-prototype-fund-6f5a1f37c5c2): [“CHEST-AI: AI tool for detection of lung diseases from chest X- ray data”,](https://www.chestai.org/) , Role: Investigator. Github Poster Link [*2023:1, 4, 9; 2021: 17, 23][**21, 23, 29, 30]
