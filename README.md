@@ -5,7 +5,8 @@
 <img width="844" alt="IWBBIO" src="https://github.com/spawar2/Chest-X-ray-Neural-Nets/assets/25118302/2bbd9bb5-dad5-4d6c-8899-a554ec24e29b">
 <img width="343" alt="Yale" src="https://github.com/spawar2/Chest-X-ray-Neural-Nets/assets/25118302/f6fc5f6b-c020-4724-bf03-b6977775a10a">
 <img width="156" alt="K-fold Semi" src="https://github.com/spawar2/Chest-X-ray-Neural-Nets/assets/25118302/94a6a661-0c69-4ec9-9263-c1d71191b6c2">
-![culinda](https://github.com/spawar2/Chest-X-ray-Neural-Nets/assets/25118302/496673ee-be1d-4d54-8d00-6d75d64ec35a)
+![culinda](https://github.com/spawar2/Chest-X-ray-Neural-Nets/assets/25118302/0486f340-4e0f-427e-981c-55760eeb6756)
+
 <img width="400" alt="Enterprenurship" src="https://github.com/spawar2/Chest-X-ray-Neural-Nets/assets/25118302/fbb8d054-f56a-4e2c-893f-e300849dd260">
 ![Tsai](https://github.com/spawar2/Chest-X-ray-Neural-Nets/assets/25118302/e67340eb-635f-4a62-94f6-2b7a2903f7d5)
 
