@@ -1,4 +1,6 @@
 [Python: fastai.vision, torchvision.models, pandas, Path]
+<img width="679" alt="Big Data" src="https://github.com/spawar2/Chest-X-ray-Neural-Nets/assets/25118302/c2cbed2d-813d-4fa9-bf22-0754c14bf9d2">
+
 
 [Yale University, Rothberg Fund (2020), USA](https://medium.com/tsai-city/kickstarting-healthcare-innovation-with-the-rothberg-catalyzer-prototype-fund-6f5a1f37c5c2): [“CHEST-AI: AI tool for detection of lung diseases from chest X- ray data”,](https://www.chestai.org/) , Role: Investigator. Github Poster Link [*2023:1, 4, 9; 2021: 17, 23][**21, 23, 29, 30]
 
