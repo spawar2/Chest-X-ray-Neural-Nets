@@ -17,8 +17,10 @@
 
 [Culinda Technologies (2020), Texas, USA](https://www.culinda.io/): Machine learning solutions for medical devices that provide deep insight into IoT and IoMT applications, Angel investment, Github Role: Investigator. [*2023:1, 4, 9; 2021: 17, 23] [**21, 23, 29, 30]
 <img width="1433" alt="ChestAi" src="https://github.com/spawar2/Chest-X-ray-Neural-Nets/assets/25118302/eec7c627-7c54-4677-b7b1-db210ec7fa16">
-
+Congress on Smart Computing Technologies (CSCT 2023), SAU Center for Research and Innovative Learning (SCRIL), Evaluating Differences in Small Object Localization using Semantic Segmentation & Single Shot Detector (SSD) Bounding Box Algorithm, Rushikesh Chopade, Aditya Stanam, University of Iowa, & Shrikant Pawar Certificate
 https://devpost.com/software/chestai
+https://scril.sau.int/csct23/page/programschedule
+https://campuspress.yale.edu/shrikantpawar/files/2023/12/CSCT2023_Certificate-Presentation-46-300x212.jpg
 
 # ChestAI [APP](http://20.169.253.49:5001/login) collaboration with Dr. Narayanan, Johnson & Johnson https://anandnarayananphd.com/
 
