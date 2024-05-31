@@ -140,4 +140,8 @@ https://shrikantpawar5.gumroad.com/l/mcise
 https://chestai.bigcartel.com/
 Teaching-student-advising: https://campuspress.yale.edu/shrikantpawar/teaching-student-advising/ Faculty Profile: https://www.claflin.edu/academics-research/faculty-research/meet-our-faculty/dr.-pawar-shrikant
 
+https://campuspress.yale.edu/shrikantpawar/files/2024/05/ICICT-2024.pptx
+https://www.youtube.com/watch?v=Y6skvhHVR2w&ab_channel=ShrikantPawar
+https://campuspress.yale.edu/shrikantpawar/files/2024/05/IWBBIO-Pawar-23.pptx
+
 
