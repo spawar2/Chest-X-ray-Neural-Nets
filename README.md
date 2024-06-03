@@ -9,7 +9,17 @@
 
 <img width="400" alt="Enterprenurship" src="https://github.com/spawar2/Chest-X-ray-Neural-Nets/assets/25118302/fbb8d054-f56a-4e2c-893f-e300849dd260">
 ![Tsai](https://github.com/spawar2/Chest-X-ray-Neural-Nets/assets/25118302/e67340eb-635f-4a62-94f6-2b7a2903f7d5)
+https://www.culinda.io/
 
+https://medium.com/tsai-city/kickstarting-healthcare-innovation-with-the-rothberg-catalyzer-prototype-fund-6f5a1f37c5c2
+
+https://www.entrepreneurshipfoundation.org/
+
+https://www.microsoft.com/en-us/startups
+
+https://www.oracle.com/research/
+
+https://www.tmcf.org/students-alumni/corp-scholar-programs/grow-with-google-hbcu-career-readiness-program-overview/
 <img width="93" alt="AWS" src="https://github.com/spawar2/Chest-X-ray-Neural-Nets/assets/25118302/037dea31-e5f1-4dc2-b227-3a1f2ae41caf">
 
 <img width="123" alt="Google" src="https://github.com/spawar2/Chest-X-ray-Neural-Nets/assets/25118302/2b3abe5e-0b6d-43c2-8426-cc935d057f00">
