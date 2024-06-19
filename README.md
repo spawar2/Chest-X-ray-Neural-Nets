@@ -98,7 +98,7 @@ score(160px, FE):  0.878; score(160px, FT): 0.879; score(320px, FE): 0.887
 DenseNet121, U-Mixed, WeightDecay, Dropout, One Cycle Policy, Transforms, Mapped uncertain 0s to 0.2s and 1s to 0.8s
 
 score(FE): 0.878
-
+Springer Computational Vision and Bio-Inspired Computing, Springer Intelligent Sustainable Systems, Springer Bioinformatics and Biomedical Engineering
 https://github.com/rushikeshchopaderc
 https://in.linkedin.com/in/rushikesh-chopade-88470615b
 https://github.com/SurajK7/
