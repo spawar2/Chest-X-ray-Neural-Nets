@@ -41,7 +41,7 @@ https://devpost.com/software/chestai
 https://scril.sau.int/csct23/page/programschedule
 https://campuspress.yale.edu/shrikantpawar/files/2023/12/CSCT2023_Certificate-Presentation-46-300x212.jpg
 
-# ChestAI [APP](http://20.169.253.49:5001/login) collaboration with Dr. Narayanan, Johnson & Johnson https://anandnarayananphd.com/
+# ChestAI [APP](http://20.169.253.49:5001/login) collaboration with Dr. Narayanan, Johnson & Johnson, Pennsylvania, USA https://anandnarayananphd.com/
 
 [Product:](https://aws.amazon.com/marketplace/seller-profile?id=seller-b6otd3wry7lkk)
 
