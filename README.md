@@ -158,6 +158,8 @@ https://tracxn.com/d/companies/chestai/__MB57iTXFVTO2fhlmUZpozcbLBTim3zBYEfD1xFo
 https://shrikantpawar5.gumroad.com/l/mcise
 https://chestai.bigcartel.com/
 Teaching-student-advising: https://campuspress.yale.edu/shrikantpawar/teaching-student-advising/ Faculty Profile: https://www.claflin.edu/academics-research/faculty-research/meet-our-faculty/dr.-pawar-shrikant
+Claflin University, Orangeburg, South Carolina, USA 
+https://www.claflin.edu/
 
 https://campuspress.yale.edu/shrikantpawar/files/2024/05/ICICT-2024.pptx
 https://www.youtube.com/watch?v=Y6skvhHVR2w&ab_channel=ShrikantPawar
