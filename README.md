@@ -7,6 +7,8 @@
 <img width="156" alt="K-fold Semi" src="https://github.com/spawar2/Chest-X-ray-Neural-Nets/assets/25118302/94a6a661-0c69-4ec9-9263-c1d71191b6c2">
 <img width="159" alt="Screenshot 2024-07-30 at 8 34 15 PM" src="https://github.com/user-attachments/assets/21904a08-2d76-44e4-b95a-b05956ae042a">
 [2024:16] https://link.springer.com/chapter/10.1007/978-981-97-3559-4_28
+<img width="738" alt="Screenshot 2024-08-03 at 6 59 02 PM" src="https://github.com/user-attachments/assets/f5639fd6-f3c1-41a2-85cf-6200399a654e">
+
 ![culinda](https://github.com/spawar2/Chest-X-ray-Neural-Nets/assets/25118302/0486f340-4e0f-427e-981c-55760eeb6756)
 
 <img width="400" alt="Enterprenurship" src="https://github.com/spawar2/Chest-X-ray-Neural-Nets/assets/25118302/fbb8d054-f56a-4e2c-893f-e300849dd260">
