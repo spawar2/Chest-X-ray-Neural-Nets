@@ -1,4 +1,4 @@
-[Python: fastai.vision, torchvision.models, pandas, Path]
+[Python: fastai.vision, torchvision.models, pandas, Path].
 <img width="679" alt="Big Data" src="https://github.com/spawar2/Chest-X-ray-Neural-Nets/assets/25118302/c2cbed2d-813d-4fa9-bf22-0754c14bf9d2">
 
 <img width="174" alt="ICICT" src="https://github.com/spawar2/Chest-X-ray-Neural-Nets/assets/25118302/c859b8c7-9415-4bd7-a14d-3dc659215067">
@@ -34,13 +34,13 @@ https://www.tmcf.org/students-alumni/corp-scholar-programs/grow-with-google-hbcu
 ![250px-OracleLogo](https://github.com/spawar2/Chest-X-ray-Neural-Nets/assets/25118302/52ad814c-6a40-4a48-8d54-3c96602d3cee)
 
 
-[Yale University, Rothberg Fund (2020), USA](https://medium.com/tsai-city/kickstarting-healthcare-innovation-with-the-rothberg-catalyzer-prototype-fund-6f5a1f37c5c2): [“CHEST-AI: AI tool for detection of lung diseases from chest X- ray data”,](https://www.chestai.org/) , Role: Investigator. Github Poster Link [*2023:1, 4, 9; 2021: 17, 23][**21, 23, 29, 30]
+[Yale University, Rothberg Fund (2020), USA](https://medium.com/tsai-city/kickstarting-healthcare-innovation-with-the-rothberg-catalyzer-prototype-fund-6f5a1f37c5c2): [“CHEST-AI: AI tool for detection of lung diseases from chest X- ray data”,](https://www.chestai.org/) , Role: Investigator. Github Poster Link [*2023:1, 4, 9; 2021: 17, 23][**21, 23, 29, 30].
 
-[Entrepreneurship Foundation Fund (2020), USA](https://www.entrepreneurshipfoundation.org/): “CHEST-AI: AI tool for detection of lung diseases from chest X- ray data”, [Github](https://www.chestai.org/) , Role: Investigator. [*2023:1, 4, 9; 2021: 17, 23] [**21, 23, 29, 30]
+[Entrepreneurship Foundation Fund (2020), USA](https://www.entrepreneurshipfoundation.org/): “CHEST-AI: AI tool for detection of lung diseases from chest X- ray data”, [Github](https://www.chestai.org/) , Role: Investigator. [*2023:1, 4, 9; 2021: 17, 23] [**21, 23, 29, 30].
 
-[Culinda Technologies (2020), Texas, USA](https://www.culinda.io/): Machine learning solutions for medical devices that provide deep insight into IoT and IoMT applications, Angel investment, Github Role: Investigator. [*2023:1, 4, 9; 2021: 17, 23] [**21, 23, 29, 30]
+[Culinda Technologies (2020), Texas, USA](https://www.culinda.io/): Machine learning solutions for medical devices that provide deep insight into IoT and IoMT applications, Angel investment, Github Role: Investigator. [*2023:1, 4, 9; 2021: 17, 23] [**21, 23, 29, 30].
 <img width="1433" alt="ChestAi" src="https://github.com/spawar2/Chest-X-ray-Neural-Nets/assets/25118302/eec7c627-7c54-4677-b7b1-db210ec7fa16">
-Congress on Smart Computing Technologies (CSCT 2023), SAU Center for Research and Innovative Learning (SCRIL), Evaluating Differences in Small Object Localization using Semantic Segmentation & Single Shot Detector (SSD) Bounding Box Algorithm, Rushikesh Chopade https://github.com/rushikeshchopaderc Presently with ChestAi, https://www.chestai.org/, Aditya Stanam, University of Iowa, & Shrikant Pawar Certificate
+Congress on Smart Computing Technologies (CSCT 2023), SAU Center for Research and Innovative Learning (SCRIL), Evaluating Differences in Small Object Localization using Semantic Segmentation & Single Shot Detector (SSD) Bounding Box Algorithm, Rushikesh Chopade https://github.com/rushikeshchopaderc Presently with ChestAi, https://www.chestai.org/, Aditya Stanam, University of Iowa, & Shrikant Pawar Certificate.
 https://devpost.com/software/chestai
 https://scril.sau.int/csct23/page/programschedule
 https://campuspress.yale.edu/shrikantpawar/files/2023/12/CSCT2023_Certificate-Presentation-46-300x212.jpg
@@ -49,67 +49,67 @@ https://www.youtube.com/watch?v=988lbQ4ekao&ab_channel=ShrikantPawar
 https://www.youtube.com/watch?v=7XQQhTZhXZM&ab_channel=ShrikantPawar
 # ChestAI [APP](http://20.169.253.49:5001/login) collaboration with Dr. Narayanan, Johnson & Johnson, Pennsylvania, USA https://anandnarayananphd.com/
 
-[Product:](https://aws.amazon.com/marketplace/seller-profile?id=seller-b6otd3wry7lkk)
+[Product:](https://aws.amazon.com/marketplace/seller-profile?id=seller-b6otd3wry7lkk).
 
-## Currently working on training diverse classifiers to create a strong ensemble
+## Currently working on training diverse classifiers to create a strong ensemble.
 
-## Single Model avg AUC score for SOTA paper 0.894
+## Single Model avg AUC score for SOTA paper 0.894.
 
 ## Uncertainity Labels
-U-Ones: Map all uncertain labels to positive
+U-Ones: Map all uncertain labels to positive.
 
-U-Zeros: Map all uncertain labels to negative
+U-Zeros: Map all uncertain labels to negative.
 
-U-Mixed: Map uncertain labels to either positive or negative according to previous results
+U-Mixed: Map uncertain labels to either positive or negative according to previous results.
 
 ## Transforms
-Rotation, Lighting, Warping
+Rotation, Lighting, Warping.
 
 ## Abbreviations 
-FE: Feature Extraction
+FE: Feature Extraction.
 
-FT: Fine Tuning
+FT: Fine Tuning.
 
-score: Avg AUC Score
+score: Avg AUC Score.
 
 ## Baseline U-Mixed (the best approach)
-DenseNet121, WeightDecay, Dropout, One Cycle Policy, Transforms
+DenseNet121, WeightDecay, Dropout, One Cycle Policy, Transforms.
 
 model0: score(FE): 0.891; score(FT): **0.89**
 
 model1(Mixed Precision): score(FE): **0.891**
 
-model2: score(FE): 0.889
+model2: score(FE): 0.889.
 
-model3: score(FE): 0.882
+model3: score(FE): 0.882.
 
-ensemble of above 4 models: **0.895** (The increment is marginal owing to the similar architectures of models)
+ensemble of above 4 models: **0.895** (The increment is marginal owing to the similar architectures of models).
 
 ## Baseline U-Ones 
-DenseNet121, WeightDecay, Dropout, One Cycle Policy, Transforms
+DenseNet121, WeightDecay, Dropout, One Cycle Policy, Transforms.
 
-score(FE): 0.87
+score(FE): 0.87.
 
 ## Baseline U-Zeros 
-DenseNet121, WeightDecay, Dropout, One Cycle Policy, Transforms
+DenseNet121, WeightDecay, Dropout, One Cycle Policy, Transforms.
 
-score(FE): 0.875
+score(FE): 0.875.
 
 ## Progressive (doesn't help in our case)
-DenseNet121, U-Mixed, WeightDecay, Dropout, One Cycle Policy, Transforms, scaled from 160 to 320 px
+DenseNet121, U-Mixed, WeightDecay, Dropout, One Cycle Policy, Transforms, scaled from 160 to 320 px.
 
-score(160px, FE):  0.878; score(160px, FT): 0.879; score(320px, FE): 0.887
+score(160px, FE):  0.878; score(160px, FT): 0.879; score(320px, FE): 0.887.
 
 ## Label Smoothing (doesn't help in our case)
-DenseNet121, U-Mixed, WeightDecay, Dropout, One Cycle Policy, Transforms, Mapped uncertain 0s to 0.2s and 1s to 0.8s
+DenseNet121, U-Mixed, WeightDecay, Dropout, One Cycle Policy, Transforms, Mapped uncertain 0s to 0.2s and 1s to 0.8s.
 
-score(FE): 0.878
+score(FE): 0.878.
 Springer Computational Vision and Bio-Inspired Computing, Springer Intelligent Sustainable Systems, Springer Bioinformatics and Biomedical Engineering
 https://github.com/rushikeshchopaderc
 https://in.linkedin.com/in/rushikesh-chopade-88470615b
 https://github.com/SurajK7/
 https://in.linkedin.com/in/surajkumar1004
-This project in collaboration with Rushikesh Chopade, Suraj Kumar Undergraduate student: Indian Institute of Technology (IIT), Kharagpur, India. Project: CHEST-AI: AI tool for detection of lung diseases from chest X- ray data (Spring 2021). Paper Paper Paper Paper Paper 
+This project in collaboration with Rushikesh Chopade, Suraj Kumar Undergraduate student: Indian Institute of Technology (IIT), Kharagpur, India. Project: CHEST-AI: AI tool for detection of lung diseases from chest X- ray data (Spring 2021). Paper Paper Paper Paper Paper. 
 https://link.springer.com/chapter/10.1007/978-981-19-9819-5_49
 https://link.springer.com/chapter/10.1007/978-981-19-7660-5_7
 https://www.researchsquare.com/article/rs-1129014/latest.pdf
@@ -120,9 +120,9 @@ https://aws.amazon.com/marketplace/seller-profile?id=seller-b6otd3wry7lkk
 https://bpb-us-w2.wpmucdn.com/campuspress.yale.edu/dist/7/3679/files/2023/10/ChestAi-300x167.png
 
 ## Regularization (doesn't help in our case)
-DenseNet121, U-Mixed, One Cycle Policy, Transforms
+DenseNet121, U-Mixed, One Cycle Policy, Transforms.
 
-score: NA
+score: NA.
 
 <img width="218" alt="CLR" src="https://github.com/spawar2/Chest-X-ray-Neural-Nets/assets/25118302/b5437360-9591-457c-beed-4d60519fba9e">
 
@@ -140,10 +140,10 @@ https://link.springer.com/chapter/10.1007/978-3-031-34960-7_23
 http://20.169.253.49:5001/login
 https://github.com/spawar2/Chest-X-ray-Neural-Nets
 https://ventures.yale.edu/yaleinnovationsummit
-1	9th International Congress on Information and Communication Technology (ICICT 2024) London, United Kingdom, Addressing Class Imbalance Problem in Semantic Segmentation using Binary Focal Loss, Rushikesh Chopade, Aditya Stanam, & Shrikant Pawar. https://sched.co/1a1eC (National Science Foundation NSF RII Track-1 award funded project)
-1	5th National Big Data Health Science Conference (2024), University of South Carolina, Columbia, Cyclical Learning Rates (CLR’S) for Improving Training Accuracies and Lowering Computational Cost, Rushikesh Chopade, Aditya Stanam, Anand Narayanan & Shrikant Pawar Poster Paper Poster (National Science Foundation NSF RII Track-1 award funded project) GitHub 
-1	10th International Work-Conference on Bioinformatics and Biomedical Engineering, Gran Canaria, Spain, 2023. Cyclical Learning Rates (CLR’s) for Improving Training Accuracies and Lowering Computational Cost. Poster Presentation CertificateApp.        Paper Product National Science Foundation NSF RII Track-1 award funded project) GitHub 
-Yale Innovation Summit 2022, Eposter: Application of neural networks for aiding lung diagnosis of lung disorders, by Pawar S.D, R. Chopade and A. Stanam, https://ventures.yale.edu/yaleinnovationsummit Product
+1	9th International Congress on Information and Communication Technology (ICICT 2024) London, United Kingdom, Addressing Class Imbalance Problem in Semantic Segmentation using Binary Focal Loss, Rushikesh Chopade, Aditya Stanam, & Shrikant Pawar. https://sched.co/1a1eC (National Science Foundation NSF RII Track-1 award funded project).
+1	5th National Big Data Health Science Conference (2024), University of South Carolina, Columbia, Cyclical Learning Rates (CLR’S) for Improving Training Accuracies and Lowering Computational Cost, Rushikesh Chopade, Aditya Stanam, Anand Narayanan & Shrikant Pawar Poster Paper Poster (National Science Foundation NSF RII Track-1 award funded project) GitHub. 
+1	10th International Work-Conference on Bioinformatics and Biomedical Engineering, Gran Canaria, Spain, 2023. Cyclical Learning Rates (CLR’s) for Improving Training Accuracies and Lowering Computational Cost. Poster Presentation CertificateApp.        Paper Product National Science Foundation NSF RII Track-1 award funded project) GitHub. 
+Yale Innovation Summit 2022, Eposter: Application of neural networks for aiding lung diagnosis of lung disorders, by Pawar S.D, R. Chopade and A. Stanam, https://ventures.yale.edu/yaleinnovationsummit Product.
 ![image](https://github.com/spawar2/Chest-X-ray-Neural-Nets/assets/25118302/79ca835e-15ae-4f45-a89e-f6880416ed60)
 ![USC Research Core Fair 1 2024](https://github.com/spawar2/Chest-X-ray-Neural-Nets/assets/25118302/f23ed29d-a433-4e64-b114-19886eccbd42)
 2024 University of South Carolina 2nd Annual Research Core Fair, Columbia, Cyclical Learning Rates (CLR’S) for Improving Training Accuracies and Lowering Computational Cost, **Rushikesh Chopade, Aditya Stanam, Anand Narayanan & Shrikant Pawar Poster Paper Product (National Science Foundation  RII Track-1 award funded project) Role: Co-PI, 100% GitHub
@@ -169,7 +169,7 @@ https://tracxn.com/d/companies/chestai/__MB57iTXFVTO2fhlmUZpozcbLBTim3zBYEfD1xFo
 https://shrikantpawar5.gumroad.com/l/mcise
 https://chestai.bigcartel.com/
 Teaching-student-advising: https://campuspress.yale.edu/shrikantpawar/teaching-student-advising/ Faculty Profile: https://www.claflin.edu/academics-research/faculty-research/meet-our-faculty/dr.-pawar-shrikant
-Claflin University, Orangeburg, South Carolina, USA 
+Claflin University, Orangeburg, South Carolina, USA. 
 https://www.claflin.edu/
 
 https://campuspress.yale.edu/shrikantpawar/files/2024/05/ICICT-2024.pptx
