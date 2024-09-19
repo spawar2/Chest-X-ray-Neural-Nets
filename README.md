@@ -176,5 +176,5 @@ https://campuspress.yale.edu/shrikantpawar/files/2024/05/ICICT-2024.pptx
 https://www.youtube.com/watch?v=Y6skvhHVR2w&ab_channel=ShrikantPawar
 https://campuspress.yale.edu/shrikantpawar/files/2024/05/IWBBIO-Pawar-23.pptx
 
-All_conditions.ipynb:'Cardiomegaly','Emphysema','Effusion','Hernia','Nodule','Pneumothorax','Atelectasis','Pleural_Thickening','Mass','Edema','Consolidation','Infiltration','Fibrosis','Pneumonia' X-ray imaging data read, split, plotting, noise removal, Convolution 2D network training, confusion matrix, accuracy, sensitivity, specificity, precision, recall, confusion matrix, log-loss, and area under curve and receiver operating characteristic, AUC-ROC evaluation.
+All_conditions.ipynb:'Cardiomegaly','Emphysema','Effusion','Hernia','Nodule','Pneumothorax','Atelectasis','Pleural_Thickening','Mass','Edema','Consolidation','Infiltration','Fibrosis','Pneumonia' X-ray imaging data read, Test-Train Split, Neural, plotting, noise removal, Convolution 2D network training, confusion matrix, accuracy, sensitivity, specificity, precision, recall, confusion matrix, log-loss, and area under curve and receiver operating characteristic, AUC-ROC evaluation.
 
