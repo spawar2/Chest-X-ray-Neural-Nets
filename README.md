@@ -177,4 +177,8 @@ https://www.youtube.com/watch?v=Y6skvhHVR2w&ab_channel=ShrikantPawar
 https://campuspress.yale.edu/shrikantpawar/files/2024/05/IWBBIO-Pawar-23.pptx
 
 All_conditions.ipynb:'Cardiomegaly','Emphysema','Effusion','Hernia','Nodule','Pneumothorax','Atelectasis','Pleural_Thickening','Mass','Edema','Consolidation','Infiltration','Fibrosis','Pneumonia' X-ray imaging data read, Test-Train Split, Neural, plotting, noise removal, Convolution 2D network training, confusion matrix, accuracy, sensitivity, specificity, precision, recall, confusion matrix, log-loss, and area under curve and receiver operating characteristic, AUC-ROC evaluation.
+function(cv2.VideoCapture, imwrite, imread, str, imshow, print, draw_bbox, build, MaskRCNN, model.load_weights, VideoCapturemodel.detect, cap.release, cv2.destroyAllWindows)
+function(pd.read_csv, ImageDataGenerator, tf.keras.Sequential
+, model.evaluate_generator, cv2.imread, cv2.cvtColor, cv2.resize, tf.keras.models.load_model, np.argmax, cv2.ellipse)
 
+function(pd.read_csv, plt.figure, plt.Circle, plt.pie,plot_hist, add_gaussian_noise, Model, model.fit, evaluate_model, network, confusion_matrix, model.predict, model.load_weights, model.compile, model.add, model.summary, plot_confusion_matrix, Sequential, binary_accuracy, feature_string, print_val_score)
