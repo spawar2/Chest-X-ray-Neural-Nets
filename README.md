@@ -169,6 +169,7 @@ https://www.freelistingindia.in/listings/chestai
 https://www.hotfrog.com/company/da94eb8a85049a717759d381bc7edbf1
 https://www.justdial.com/Mumbai/Engineering-Companies/
 https://www.showmelocal.com/37520422-chestai-columbia
+https://www.indianyellowpages.com/mumbai/chestAi
 https://tracxn.com/d/companies/chestai/__MB57iTXFVTO2fhlmUZpozcbLBTim3zBYEfD1xFox4mI https://theorg.com/org/chestai https://www.startupranking.com/chestai https://www.sideprojectors.com/project/41226/chestai https://startupbuffer.com/compare-atlantica-vs-chestai https://www.saashub.com/chestai-alternatives https://www.saashub.com/georgia-research-consulting-grc-llc-alternatives https://www.f6s.com/profile/5298554 https://www.crunchbase.com/organization/georgia-research-consulting-grc-llc https://www.claflin.edu/academics-research/faculty-research/meet-our-faculty/dr.-pawar-shrikant https://www.claflin-computation.com/ https://campuspress.yale.edu/shrikantpawar/ http://www.linkedin.com/in/shrikant-pawar-ms-ph-d-5bb37a16 https://www.ncbi.nlm.nih.gov/myncbi/18IT7znYQEs1yv/bibliography/public/ https://scholar.google.com/citations?user=SvcIPSsAAAAJ&hl=en&oi=ao https://github.com/spawar2 https://devpost.com/software/chestai 
 https://shrikantpawar5.gumroad.com/l/mcise
 https://chestai.bigcartel.com/
