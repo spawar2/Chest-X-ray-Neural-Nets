@@ -36,7 +36,7 @@ https://www.tmcf.org/students-alumni/corp-scholar-programs/grow-with-google-hbcu
 
 [Yale University, Rothberg Fund (2020), USA](https://medium.com/tsai-city/kickstarting-healthcare-innovation-with-the-rothberg-catalyzer-prototype-fund-6f5a1f37c5c2): [“CHEST-AI: AI tool for detection of lung diseases from chest X- ray data”,](https://www.chestai.org/) , Role: Investigator. Github, Poster Link, [*2023:1, 4, 9; 2021: 17, 23],[**21, 23, 29, 30].
 
-[Entrepreneurship Foundation Fund (2020), USA](https://www.entrepreneurshipfoundation.org/): “CHEST-AI: AI tool for detection of lung diseases from chest X- ray data”, [Github,](https://www.chestai.org/) , Role: Investigator. [*2023:1, 4, 9; 2021: 17, 23], [**21, 23, 29, 30].
+[Entrepreneurship Foundation Fund (2020), USA](https://www.entrepreneurshipfoundation.org/): “CHEST-AI: AI tool for detection of lung diseases from chest X- ray data”, [Github,](https://www.chestai.org/) , Role: Investigator. [*2023:1, 4, 9; 2021: 17, 23], [**21, 23, 29, 30]. Co-PI/co-PI (Principal Investigator).
 
 [Culinda Technologies (2020), Texas, USA](https://www.culinda.io/): Machine learning solutions for medical devices that provide deep insight into IoT and IoMT applications, Angel investment, Github Role: Investigator. [*2023:1, 4, 9; 2021: 17, 23] [**21, 23, 29, 30].
 <img width="1433" alt="ChestAi" src="https://github.com/spawar2/Chest-X-ray-Neural-Nets/assets/25118302/eec7c627-7c54-4677-b7b1-db210ec7fa16">
