@@ -162,6 +162,7 @@ https://www.ai4hlth.org/product-profiles/ChestAi
 ChestAi Demo: https://youtu.be/5BfRpzYU-T8
 https://www.chestai.org/ & https://www.crunchbase.com/person/shrikant-pawar-f817
 https://www.manta.com/c/m1wy0z8/chestai
+Cybo: https://www.cybo.com/US-biz/yale-aids-program_2K
 https://www.merchantcircle.com/chestai-orangeburg-sc
 https://in.enrollbusiness.com/BusinessProfile/6817822/ChestAi
 https://www.delhionline.in/business/chestai-51996
