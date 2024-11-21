@@ -47,6 +47,7 @@ https://campuspress.yale.edu/shrikantpawar/files/2023/12/CSCT2023_Certificate-Pr
 https://www.youtube.com/watch?v=Y6skvhHVR2w&ab_channel=ShrikantPawar
 https://www.youtube.com/watch?v=988lbQ4ekao&ab_channel=ShrikantPawar
 https://www.youtube.com/watch?v=7XQQhTZhXZM&ab_channel=ShrikantPawar
+https://campuspress.yale.edu/shrikantpawar/files/2024/08/81dd80_a2f45622619e4cf3981fb1cd87da5dffmv2.jpg
 # ChestAI [APP](http://20.169.253.49:5001/login) Collaboration with Dr. Narayanan, Johnson & Johnson, Pennsylvania, USA. https://anandnarayananphd.com/
 
 [Product:](https://aws.amazon.com/marketplace/seller-profile?id=seller-b6otd3wry7lkk).
