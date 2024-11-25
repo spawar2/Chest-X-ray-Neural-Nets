@@ -99,7 +99,7 @@ score(FE): 0.875.
 ## Progressive (doesn't help in our case).
 DenseNet121, U-Mixed, WeightDecay, Dropout, One Cycle Policy, Transforms, scaled from 160 to 320 px.
 
-Score(160px, FE):  0.878; score(160px, FT): 0.879; score(320px, FE): 0.887.
+Testing: Score(160px, FE):  0.878; score(160px, FT): 0.879; score(320px, FE): 0.887.
 
 ## Label Smoothing (doesn't help in our case).
 DenseNet121, U-Mixed, WeightDecay, Dropout, One Cycle Policy, Transforms, Mapped uncertain 0s to 0.2s and 1s to 0.8s.
