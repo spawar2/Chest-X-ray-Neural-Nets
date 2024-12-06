@@ -51,7 +51,8 @@ https://campuspress.yale.edu/shrikantpawar/files/2024/08/81dd80_a2f45622619e4cf3
 # ChestAI [APP](http://20.169.253.49:5001/login) Collaboration with Dr. Narayanan, Johnson & Johnson, Pennsylvania, USA. https://anandnarayananphd.com/
 https://campuspress.yale.edu/shrikantpawar/files/2024/11/IWBBIO-Pawar-23.pdf
 [Product:](https://aws.amazon.com/marketplace/seller-profile?id=seller-b6otd3wry7lkk).
-
+†
+†Corresponding author. ††First author. †††Second author. ††††Third author. †††††author.
 ## Currently working on training diverse classifiers to create a strong ensemble.
 
 ## Single Model avg AUC score for SOTA paper 0.894.
