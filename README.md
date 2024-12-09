@@ -1,4 +1,4 @@
-[Python: fastai.vision, torchvision.models, pandas, Path]. Artificial intelligence (AI). December, 9, 2024.
+[Python: fastai.vision, torchvision.models, pandas, Path]. Artificial intelligence (AI). Date created/updated: December, 9, 2024.
 <img width="679" alt="Big Data" src="https://github.com/spawar2/Chest-X-ray-Neural-Nets/assets/25118302/c2cbed2d-813d-4fa9-bf22-0754c14bf9d2">
 https://github.com/spawar2/CNN-X-ray-images/
 <img width="174" alt="ICICT" src="https://github.com/spawar2/Chest-X-ray-Neural-Nets/assets/25118302/c859b8c7-9415-4bd7-a14d-3dc659215067">
