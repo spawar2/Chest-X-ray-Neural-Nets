@@ -35,11 +35,11 @@ https://www.tmcf.org/students-alumni/corp-scholar-programs/grow-with-google-hbcu
 ![250px-OracleLogo](https://github.com/spawar2/Chest-X-ray-Neural-Nets/assets/25118302/52ad814c-6a40-4a48-8d54-3c96602d3cee)
 
 
-[Yale University, Rothberg Fund (2020), USA](https://medium.com/tsai-city/kickstarting-healthcare-innovation-with-the-rothberg-catalyzer-prototype-fund-6f5a1f37c5c2): [“CHEST-AI: AI tool for detection of lung diseases from chest X- ray data”,](https://www.chestai.org/) , Role: Investigator. Github, Poster Link, [*2023:1, 4, 9; 2021: 17, 23],[**21, 23, 29, 30].
+[Yale University, Rothberg Fund (2020), USA](https://medium.com/tsai-city/kickstarting-healthcare-innovation-with-the-rothberg-catalyzer-prototype-fund-6f5a1f37c5c2): Grant/award/project title: [“CHEST-AI: AI tool for detection of lung diseases from chest X- ray data”,](https://www.chestai.org/) , Role: Investigator. Github, Poster Link, [*2023:1, 4, 9; 2021: 17, 23],[**21, 23, 29, 30].
 
-[Entrepreneurship Foundation Fund (2020), USA](https://www.entrepreneurshipfoundation.org/): “CHEST-AI: AI tool for detection of lung diseases from chest X- ray data”, [Github,](https://www.chestai.org/) , Role: Investigator. [*2023:1, 4, 9; 2021: 17, 23], [**21, 23, 29, 30]. Co-PI/co-PI (Principal Investigator).
+[Entrepreneurship Foundation Fund (2020), USA](https://www.entrepreneurshipfoundation.org/): Grant/award/project title: "“CHEST-AI: AI tool for detection of lung diseases from chest X- ray data”, [Github,](https://www.chestai.org/) , Role: Investigator. [*2023:1, 4, 9; 2021: 17, 23], [**21, 23, 29, 30]. Co-PI/co-PI (Principal Investigator).
 
-[Culinda Technologies (2020), Texas, USA](https://www.culinda.io/): Machine learning solutions for medical devices that provide deep insight into IoT and IoMT applications, Angel investment, Github Role: Investigator. [*2023:1, 4, 9; 2021: 17, 23] [**21, 23, 29, 30].
+[Culinda Technologies (2020), Texas, USA](https://www.culinda.io/): Grant/award/project title: "Machine learning solutions for medical devices that provide deep insight into IoT and IoMT applications", Angel investment, Github Role: Investigator. [*2023:1, 4, 9; 2021: 17, 23] [**21, 23, 29, 30].
 <img width="1433" alt="ChestAi" src="https://github.com/spawar2/Chest-X-ray-Neural-Nets/assets/25118302/eec7c627-7c54-4677-b7b1-db210ec7fa16">
 Congress on Smart Computing Technologies (CSCT 2023), SAU Center for Research and Innovative Learning (SCRIL), Evaluating Differences in Small Object Localization using Semantic Segmentation & Single Shot Detector (SSD) Bounding Box Algorithm, Rushikesh Chopade https://github.com/rushikeshchopaderc Presently with ChestAi, https://www.chestai.org/, Aditya Stanam, University of Iowa, & Shrikant Pawar Certificate.
 https://devpost.com/software/chestai
@@ -150,7 +150,7 @@ https://ventures.yale.edu/yaleinnovationsummit
 Yale Innovation Summit 2022, Eposter: Application of neural networks for aiding lung diagnosis of lung disorders, by Pawar S.D, R. Chopade and A. Stanam, https://ventures.yale.edu/yaleinnovationsummit Product.
 ![image](https://github.com/spawar2/Chest-X-ray-Neural-Nets/assets/25118302/79ca835e-15ae-4f45-a89e-f6880416ed60)
 ![USC Research Core Fair 1 2024](https://github.com/spawar2/Chest-X-ray-Neural-Nets/assets/25118302/f23ed29d-a433-4e64-b114-19886eccbd42)
-2 March, 2024 University of South Carolina 2nd Annual Research Core Fair, Columbia, Cyclical Learning Rates (CLR’S) for Improving Training Accuracies and Lowering Computational Cost, **Rushikesh Chopade, Aditya Stanam, Anand Narayanan & Shrikant Pawar Poster Paper Product (National Science Foundation  RII Track-1 award funded project), AI-enabled Devices for the Advancement of Personalized and Transformative Healthcare in South Carolina (ADAPT), Role: Co-PI, NSF Identifier: 000879633, Award Number: 2242812, Effort=100% , GitHub,
+2 March, 2024 University of South Carolina 2nd Annual Research Core Fair, Columbia, Cyclical Learning Rates (CLR’S) for Improving Training Accuracies and Lowering Computational Cost, **Rushikesh Chopade, Aditya Stanam, Anand Narayanan & Shrikant Pawar Poster Paper Product (National Science Foundation  RII Track-1 award funded project), Grant/award/project title: "AI-enabled Devices for the Advancement of Personalized and Transformative Healthcare in South Carolina (ADAPT)", Role: Co-PI, NSF Identifier: 000879633, Award Number: 2242812, Effort=100% , GitHub,
 https://campuspress.yale.edu/shrikantpawar/files/2024/03/Research-Core-Fair-2024-submitted-abstracts-163910a83f12c05b.pdf
 https://link.springer.com/chapter/10.1007/978-3-031-34960-7_23
 https://github.com/spawar2/Chest-X-ray-Neural-Nets
