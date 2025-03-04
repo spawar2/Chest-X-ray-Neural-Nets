@@ -49,6 +49,15 @@ https://www.youtube.com/watch?v=Y6skvhHVR2w&ab_channel=ShrikantPawar
 Video presentation: https://www.youtube.com/watch?v=988lbQ4ekao&ab_channel=ShrikantPawar
 https://www.youtube.com/watch?v=7XQQhTZhXZM&ab_channel=ShrikantPawar
 https://campuspress.yale.edu/shrikantpawar/files/2024/08/81dd80_a2f45622619e4cf3981fb1cd87da5dffmv2.jpg
+Evaluating Differences in Small Object Localization Using Semantic Segmentation and Single Shot Detector (SSD) Bounding Box Algorithm,  Publication date: March 3, 2025, Publication: Springer Smart Innovation, Systems and Technologies, collaboration with Rushikesh Chopade Git (Presently with ChestAi, https://www.chestai.org/), Indian Institute of Technology, Kharagpur^^, Dr. Aditya. Stanam, University of Iowa, Iowa City, USA & Shrikant Pawar. (National Science Foundation (NSF) South Carolina Established Program for Stem Cooperative Research (SC EPSCoR), Grant/award/project title: “AI-enabled Devices for the Advancement of Personalized and Transformative Healthcare in South Carolina (ADAPT)", (August 1, 2023- August 31, 2027)), RII Track-1 award funded project) Role: Co-PI/co-PI (Principal Investigator), NSF Identifier: 000879633, Award Number: 2242812, Award/Fund Agency Code: 4900, Program Element/Reference Code's (PEC/Congressional District): 193Y00, 075Z/7715/8037/9150/SMET/03, Assistance Listing Number: 47.083, (Direct costs, Effort=100%, 1.50 person per month release) [**2024:37]. Presentation video, PPT^^ Certificate, Digital Object Identifier (DOI)=Online International Standard Book Number (ISBN): https://doi.org/10.1007/978-981-97-8096-9_2, Volume, Issue, Pages: p. 15-21.† 
+
+https://link.springer.com/chapter/10.1007/978-981-97-8096-9_2
+https://www.youtube.com/watch?v=Y6skvhHVR2w&ab_channel=ShrikantPawar
+https://campuspress.yale.edu/shrikantpawar/files/2024/05/CSCT-2023.pptx
+https://campuspress.yale.edu/shrikantpawar/files/2023/12/CSCT2023_Certificate-Presentation-46-300x212.jpg
+https://scril.sau.int/csct23/page/programschedule
+
+[*2025:10], [**2024:37],
 # ChestAI [APP](http://20.169.253.49:5001/login) Collaboration with Dr. Anand. Narayanan, Johnson & Johnson, Pennsylvania, USA. https://anandnarayananphd.com/
 https://campuspress.yale.edu/shrikantpawar/files/2024/11/IWBBIO-Pawar-23.pdf
 [Product:](https://aws.amazon.com/marketplace/seller-profile?id=seller-b6otd3wry7lkk).
