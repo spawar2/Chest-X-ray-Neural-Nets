@@ -15,7 +15,8 @@ https://campuspress.yale.edu/shrikantpawar/files/2025/03/Small-Object-Localizati
 <img width="400" alt="Enterprenurship" src="https://github.com/spawar2/Chest-X-ray-Neural-Nets/assets/25118302/fbb8d054-f56a-4e2c-893f-e300849dd260">
 ![Tsai.](https://github.com/spawar2/Chest-X-ray-Neural-Nets/assets/25118302/e67340eb-635f-4a62-94f6-2b7a2903f7d5)
 https://www.culinda.io/
-
+https://scepscor.org/research-expertise-profiles-table/
+https://scepscor.org/pawar-shrikant-research-focus/
 https://medium.com/tsai-city/kickstarting-healthcare-innovation-with-the-rothberg-catalyzer-prototype-fund-6f5a1f37c5c2
 
 https://www.entrepreneurshipfoundation.org/
