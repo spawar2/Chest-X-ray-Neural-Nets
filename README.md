@@ -43,7 +43,7 @@ https://www.tmcf.org/students-alumni/corp-scholar-programs/grow-with-google-hbcu
 [Culinda Technologies (2020), Texas, USA](https://www.culinda.io/): Grant/award/project title: "Machine learning solutions for medical devices that provide deep insight into IoT and IoMT applications", Angel investment, Github Role: Investigator. [*2023:1, 4, 9; 2021: 17, 23] [**21, 23, 29, 30].
 <img width="1433" alt="ChestAi" src="https://github.com/spawar2/Chest-X-ray-Neural-Nets/assets/25118302/eec7c627-7c54-4677-b7b1-db210ec7fa16">
 Congress on Smart Computing Technologies (CSCT 2023), SAU Center for Research and Innovative Learning (SCRIL), Evaluating Differences in Small Object Localization using Semantic Segmentation & Single Shot Detector (SSD) Bounding Box Algorithm, Rushikesh Chopade https://github.com/rushikeshchopaderc Presently with ChestAi, https://www.chestai.org/, Aditya Stanam, University of Iowa, & Shrikant Pawar Certificate.
-https://devpost.com/software/chestai
+https://devpost.com/software/chestai https://bpb-us-w2.wpmucdn.com/campuspress.yale.edu/dist/7/3679/files/2024/01/Conferences1-57a4ad9681aaf3a8-300x225.jpg
 https://scril.sau.int/csct23/page/programschedule
 https://campuspress.yale.edu/shrikantpawar/files/2023/12/CSCT2023_Certificate-Presentation-46-300x212.jpg
 https://www.youtube.com/watch?v=Y6skvhHVR2w&ab_channel=ShrikantPawar
