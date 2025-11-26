@@ -133,6 +133,8 @@ https://aws.amazon.com/marketplace/seller-profile?id=seller-b6otd3wry7lkk
 https://bpb-us-w2.wpmucdn.com/campuspress.yale.edu/dist/7/3679/files/2023/10/ChestAi-300x167.png
 Foursquare: https://foursquare.com/v/chestai/675d2813c7ac2e5e0e40741c
 Callupcontact: https://www.callupcontact.com/b/businessprofile/ChestAI/9426702
+https://ezlocal.com/ct/new-haven/health-and-wellness/0917519441
+https://www.tupalo.co/columbia-south-carolina/chestai
 ## Regularization (doesn't help in our case).
 DenseNet121, U-Mixed, One Cycle Policy, Transforms.
 
