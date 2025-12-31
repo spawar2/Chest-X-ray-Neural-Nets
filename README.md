@@ -204,7 +204,7 @@ function(pd.read_csv, ImageDataGenerator, tf.keras.Sequential
 , model.evaluate_generator, cv2.imread, cv2.cvtColor, cv2.resize, tf.keras.models.load_model, np.argmax, cv2.ellipse).
 
 selected function(pd.read_csv, plt.figure, plt.Circle, plt.pie,plot_hist, add_gaussian_noise, Model, model.fit, evaluate_model, network, confusion_matrix, model.predict, model.load_weights, model.compile, model.add, model.summary, plot_confusion_matrix, Sequential, binary_accuracy, feature_string, print_val_score).
-
+Accuracy (3, 5, 10 Fold similar values).
 Cyclical Learning Rates (CLR’S) for Improving Training Accuracies and Lowering Computational Cost. Publication date July 3, 2023, Publication: Springer Lecture Notes in Computer Science, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 ,13, 14, 15, App Product, Git (National Science Foundation South Carolina Established Program for Stem Cooperative Research (SC EPSCoR), AI-enabled Devices for the Advancement of Personalized and Transformative Healthcare in South Carolina (ADAPT),  RII Track-1 award funded project Role: Co-PI, NSF Identifier: 000879633, Award Number: 2242812, (Direct costs, Effort=100%)), GitHub, collaboration with , Chopade, presently with ChestAi, https://www.chestai.org/, Dr. Narayanan, Johnson & Johnson, Pennsylvania, USA Indian Institute of Technology, Kharagpur^^ Paper. DOI: https://doi.org/10.1016/S1474-4422(23)00195-3, Volume: 8, Issue: 22, Pages: p685-711.† 
 Associated Press Style
 
