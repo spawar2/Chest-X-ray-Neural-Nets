@@ -57,7 +57,32 @@ https://www.youtube.com/watch?v=Y6skvhHVR2w&ab_channel=ShrikantPawar
 https://campuspress.yale.edu/shrikantpawar/files/2024/05/CSCT-2023.pptx
 https://campuspress.yale.edu/shrikantpawar/files/2023/12/CSCT2023_Certificate-Presentation-46-300x212.jpg
 https://scril.sau.int/csct23/page/programschedule
+	•	Accuracy (3, 5, 10 Fold similar values), precision0.7817164179104478
+	•	recall0.73325
+	•	f1-score0.7567079463364293
+	•	Support4000  
+	•	Accuracy, precision0.7488820899035067
+	•	recall0.7953011747063234
+	•	f1-score0.7713939393939394
+	•	Support4001 
+	•	Accuracy, precision0.7652992539069772
+	•	recall0.7642755873531617
+	•	f1-score0.7640509428651844
+	•	Support8001  
+	•	Accuracy, precision0.7652972020179628
+	•	recall0.7642794650668666
+	•	f1-score0.7640518606250305
+	•	support8001
 
+              Kappa : 1   
+        Sensitivity : 1.0000     
+        Specificity : 1.0000     
+     Pos Pred Value : 1.0000     
+     Neg Pred Value : 1.0000     
+         Prevalence : 0.3333     
+     Detection Rate : 0.3333     
+
+Detection Prevalence : 0.3333 Balanced Accuracy : 1.0000
 [*2025:10], [**2024:37],
 # ChestAI [APP](http://20.169.253.49:5001/login) Collaboration with Dr. Anand. Narayanan, Johnson & Johnson, Pennsylvania, USA. https://anandnarayananphd.com/
 https://campuspress.yale.edu/shrikantpawar/files/2024/11/IWBBIO-Pawar-23.pdf
