@@ -6,7 +6,7 @@ https://github.com/spawar2/CNN-X-ray-images/
 <img width="343" alt="Yale" src="https://github.com/spawar2/Chest-X-ray-Neural-Nets/assets/25118302/f6fc5f6b-c020-4724-bf03-b6977775a10a">
 <img width="156" alt="K-fold Semi" src="https://github.com/spawar2/Chest-X-ray-Neural-Nets/assets/25118302/94a6a661-0c69-4ec9-9263-c1d71191b6c2">
 <img width="159" alt="Screenshot 2024-07-30 at 8 34 15 PM" src="https://github.com/user-attachments/assets/21904a08-2d76-44e4-b95a-b05956ae042a">
-[2024:16] https://link.springer.com/chapter/10.1007/978-981-97-3559-4_28
+[2024:16] https://link.springer.com/chapter/10.1007/978-981-97-3559-4_28 (Springer Nature)
 <img width="738" alt="Screenshot 2024-08-03 at 6 59 02 PM" src="https://github.com/user-attachments/assets/f5639fd6-f3c1-41a2-85cf-6200399a654e">
 (August 1, 2023- August 31, 2027).
 Award (Start date- End date). Program Element/Reference Code's (PEC/Congressional District): 193Y00, 075Z/7715/8037/9150/SMET/03, Assistance Listing Number: 47.083, 1.50 person per month release.
