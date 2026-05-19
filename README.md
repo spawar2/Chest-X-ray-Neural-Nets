@@ -7,7 +7,10 @@ https://github.com/spawar2/CNN-X-ray-images/
 <img width="156" alt="K-fold Semi" src="https://github.com/spawar2/Chest-X-ray-Neural-Nets/assets/25118302/94a6a661-0c69-4ec9-9263-c1d71191b6c2">
 <img width="159" alt="Screenshot 2024-07-30 at 8 34 15 PM" src="https://github.com/user-attachments/assets/21904a08-2d76-44e4-b95a-b05956ae042a">
 [2024:16] https://link.springer.com/chapter/10.1007/978-981-97-3559-4_28 (Springer Nature)
-<img width="738" alt="Screenshot 2024-08-03 at 6 59 02 PM" src="https://github.com/user-attachments/assets/f5639fd6-f3c1-41a2-85cf-6200399a654e">
+<img width="738" alt="Screenshot 2024-08-03 at 6 59 02 PM" src="https://github.com/user-attachments/assets/f5639fd6-f3c1-41a2-85cf-6200399a654e"> <img width="1456" height="793" alt="595006660-cc26ee57-4ff6-41ea-a0a2-4737a43a859c" src="https://github.com/user-attachments/assets/dca36014-47a5-47cb-959f-232bf2a79883" />
+<img width="1441" height="793" alt="Screenshot 2026-05-20 at 2 22 38 AM" src="https://github.com/user-attachments/assets/1d45033b-062e-4687-ab69-23602e1aad9b" />
+<img width="1456" height="793" alt="595006660-cc26ee57-4ff6-41ea-a0a2-4737a43a859c" src="https://github.com/user-attachments/assets/cb502b7e-7f0a-4d6b-ad8d-c4f439088969" />
+
 (August 1, 2023- August 31, 2027).
 Award (Start date- End date). Program Element/Reference Code's (PEC/Congressional District): 193Y00, 075Z/7715/8037/9150/SMET/03, Assistance Listing Number: 47.083, 1.50 person per month release.
 ![culinda](https://github.com/spawar2/Chest-X-ray-Neural-Nets/assets/25118302/0486f340-4e0f-427e-981c-55760eeb6756)
