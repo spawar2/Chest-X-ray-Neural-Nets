@@ -12,7 +12,8 @@ https://github.com/spawar2/CNN-X-ray-images/
 Award (Start date- End date). Program Element/Reference Code's (PEC/Congressional District): 193Y00, 075Z/7715/8037/9150/SMET/03, Assistance Listing Number: 47.083, 1.50 person per month release.
 ![culinda](https://github.com/spawar2/Chest-X-ray-Neural-Nets/assets/25118302/0486f340-4e0f-427e-981c-55760eeb6756)
 https://campuspress.yale.edu/shrikantpawar/files/2025/03/Small-Object-Localization.pdf
-<img width="400" alt="Enterprenurship" src="https://github.com/spawar2/Chest-X-ray-Neural-Nets/assets/25118302/fbb8d054-f56a-4e2c-893f-e300849dd260">
+<img width="400" alt="Enterprenurship" src="https://github.com/spawar2/Chest-X-ray-Neural-Nets/assets/25118302/fbb8d054-f56a-4e2c-893f-e300849dd260"> <img width="1456" height="793" alt="Screenshot 2026-05-20 at 1 57 16 AM" src="https://github.com/user-attachments/assets/cc26ee57-4ff6-41ea-a0a2-4737a43a859c" />
+
 ![Tsai.](https://github.com/spawar2/Chest-X-ray-Neural-Nets/assets/25118302/e67340eb-635f-4a62-94f6-2b7a2903f7d5)
 https://www.culinda.io/
 https://scepscor.org/research-expertise-profiles-table/
